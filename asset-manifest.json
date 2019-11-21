@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/castor/static/css/main.b100e6da.chunk.css",
+    "main.js": "/castor/static/js/main.9e640722.chunk.js",
+    "main.js.map": "/castor/static/js/main.9e640722.chunk.js.map",
+    "runtime-main.js": "/castor/static/js/runtime-main.daa842df.js",
+    "runtime-main.js.map": "/castor/static/js/runtime-main.daa842df.js.map",
+    "static/js/2.b5b7facb.chunk.js": "/castor/static/js/2.b5b7facb.chunk.js",
+    "static/js/2.b5b7facb.chunk.js.map": "/castor/static/js/2.b5b7facb.chunk.js.map",
+    "index.html": "/castor/index.html",
+    "precache-manifest.7cc25d49b2a312f346a7f78273b09342.js": "/castor/precache-manifest.7cc25d49b2a312f346a7f78273b09342.js",
+    "service-worker.js": "/castor/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/castor/static/css/main.b100e6da.chunk.css.map",
+    "static/media/castor.svg": "/castor/static/media/castor.a1f35522.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daa842df.js",
+    "static/js/2.b5b7facb.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.9e640722.chunk.js"
+  ]
+}
